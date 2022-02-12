@@ -1,0 +1,11 @@
+.place__paragraph-item {
+    margin: 0 0 26px;
+}
+.place__paragraph-item:last-child {
+    margin-bottom: 0;
+}
+@media screen and (max-width: 320px) {
+    .place__paragraph-item {
+        margin: 0 0 25px;
+    }
+}
