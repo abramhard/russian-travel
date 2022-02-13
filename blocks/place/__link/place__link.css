@@ -2,8 +2,9 @@
     color: #FFF;
     font-weight: normal;
     font-size: 18px;
-    line-height: 22px;
-    text-decoration-line: underline;
+    line-height: 122%;
+    text-decoration-line: none;
+    border-bottom: 1px solid #FFFFFF;
     transition: opacity .5s ease-in-out;
 }
 .place__link:hover {

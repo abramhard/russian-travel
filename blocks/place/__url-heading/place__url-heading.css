@@ -4,5 +4,15 @@
     font-size: 12px;
     line-height: 12px;
     letter-spacing: 2px;
-    margin: 0 0 12px;
+    margin: 0 0 9px;
+}
+@media screen and (max-width: 1278px) {
+    .place__url-heading {
+        margin: 0 0 9px;
+    }
+}
+@media screen and (max-width: 1023px) {
+    .place__url-heading {
+        margin-bottom: 13px;
+    }
 }
