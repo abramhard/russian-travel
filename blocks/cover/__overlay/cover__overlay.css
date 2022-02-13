@@ -34,7 +34,7 @@
         min-height: 480px;
     }
 }
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 530px) {
     .cover__overlay {
         min-height: 360px;
     }
